@@ -1,0 +1,36 @@
+body.modo-dark {
+    background-color: #000;
+    color: #fff;
+}
+
+.page-header {
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.quadrado {
+    text-align: center;
+    width: 180px;
+    height: 180px;
+    background: #eee;
+    display: inline-block;
+    padding: 40px;
+    font-size: 60px;    
+    cursor: pointer;
+    margin: 5px;
+    color: #eee;
+}
+
+.jogador, .vencedor {
+    font-size: 30px;
+    margin-top: 10px;
+}
+
+.btn {
+    margin: 15px 0px 12.5px 12.5px;
+    cursor: pointer;
+}
+
+.page-footer {
+    margin-top: 30px;
+}
